@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21592" started-at="2019-01-28T21:29:04Z" finished-at="2019-01-28T21:29:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21592" started-at="2019-01-28T21:29:04Z" finished-at="2019-01-28T21:29:26Z">
+      <class name="com.qa.was.testcases.LandingPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.was.testcases.LandingPageTest@29774679]" name="setup" is-config="true" duration-ms="7445" started-at="2019-01-28T16:29:04Z" finished-at="2019-01-28T16:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="vaidateTitle()[pri:0, instance:com.qa.was.testcases.LandingPageTest@29774679]" name="vaidateTitle" duration-ms="112" started-at="2019-01-28T16:29:11Z" finished-at="2019-01-28T16:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vaidateTitle -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.qa.was.testcases.LandingPageTest@29774679]" name="cleanup" is-config="true" duration-ms="746" started-at="2019-01-28T16:29:12Z" finished-at="2019-01-28T16:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.was.testcases.LandingPageTest@29774679]" name="setup" is-config="true" duration-ms="7034" started-at="2019-01-28T16:29:12Z" finished-at="2019-01-28T16:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.qa.was.testcases.LandingPageTest@29774679]" name="login" duration-ms="5464" started-at="2019-01-28T16:29:19Z" finished-at="2019-01-28T16:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.qa.was.testcases.LandingPageTest@29774679]" name="cleanup" is-config="true" duration-ms="773" started-at="2019-01-28T16:29:25Z" finished-at="2019-01-28T16:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.qa.was.testcases.LandingPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
